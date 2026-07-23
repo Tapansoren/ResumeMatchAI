@@ -1,6 +1,6 @@
 # ResumeMatchAI
 AI-powered ATS Resume Analyzer that compares resumes with job descriptions, calculates ATS score, identifies missing keywords, and provides recruiter-friendly improvement suggestions using Gemini AI.#resume #ats #resume-analyzer #gemini-ai react typescript tailwindcss supabase lovable job-search career ai
-#Features
+# Features
 ATS Score
 Resume Match %
 Missing Keywords
@@ -12,7 +12,7 @@ Secure Resume Upload
 Guest Mode
 Google Login
 
-#Tech Stack
+# Tech Stack
 
 Frontend
 
@@ -36,7 +36,7 @@ Lovable AI Gateway
 Deployment
 
 Lovable Cloud
- #Screenshots
+# Screenshots
 
 Landing Page
 
@@ -46,18 +46,18 @@ ATS Report
 
 Resume Upload
 
-#Installation
+# Installation
 git clone ...
 npm install
 npm run dev
 
-#Folder Structure
+# Folder Structure
 Diagram
 
-#License
+# License
 MIT
 
-#Author
+# Author
 Tapan Soren
 LinkedIn-linkedin.com/in/tapan-soren-analyst
 Portfolio- https://data-analyst-portfol-wdw5.bolt.host
